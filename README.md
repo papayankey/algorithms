@@ -1,6 +1,6 @@
 # Algorithms
 
-Algorithm implementations using go programming language as my personal note and reference and anyone who might find it useful.<br>
+Algorithm implementations using go programming language as my personal note and reference and anyone who might find it useful.
 Each implementation is backed with unit tests.
 
 ## Sorting
